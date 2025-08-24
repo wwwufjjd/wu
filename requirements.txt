@@ -1,0 +1,12 @@
+PyQt5
+moviepy
+librosa
+pydub
+webrtcvad-wheels
+opencv-python
+openai-whisper
+# PyTorch 和 Torchvision 必须根据您的 CUDA 版本手动安装。
+# 例如，对于 CUDA 12.1，请运行以下命令：
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+ultralytics
+imageio-ffmpeg
